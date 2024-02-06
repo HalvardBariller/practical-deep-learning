@@ -9,4 +9,4 @@ The Grad-CAM algorithm is a technique for visualizing the regions of an image th
 
 
 
-<img src="./GradCAM/figures/egyptian_cat.png" alt="drawing" width="400"/>
+<img src="./GradCAM/figures/egyptian_cat.png" alt="drawing" width="600"/>
