@@ -7,3 +7,8 @@ setuptools
 mlflow==2.9.2
 sklearn # For fast dataset loading
 numpy
+torch-scatter    
+torch-sparse     
+torch-cluster    
+torch-spline-conv
+torch-geometric
