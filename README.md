@@ -7,6 +7,12 @@ Collection of mini-projects implemented as part of the MVA course "Deep Learning
 
 The Grad-CAM algorithm is a technique for visualizing the regions of an image that are important for a CNN model's prediction. The goal of this project is to implement the Grad-CAM algorithm and apply it to a pre-trained model (here ResNet-34) on a subset of the ImageNet dataset.
 
-
-
 <img src="./GradCAM/figures/egyptian_cat.png" alt="drawing" width="600"/>
+
+## [Project 2: Graph Attention Networks](./GATNetwork/)
+
+[Graph Attention Networks (Veličković et al. 2017)](https://arxiv.org/pdf/1710.10903.pdf)
+
+Inspired by the self-attention mechanism widely used (in Transformers for example), the Graph Attention Network uses a more flexible mechanism to learn the importance of each node's neighbors in the message-passing scheme as compared to then-existing architectures. The goal of this project is to implement a Graph Attention Network and compare its performance to Graph Convolutional Networks on the PPI (Protein-Protein Interaction) dataset for node classification.
+
+<img src="./GATNetwork/Diagram_GAT.png" alt="drawing" width="600"/>
